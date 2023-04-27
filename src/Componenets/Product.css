@@ -1,0 +1,6 @@
+.product_card{
+    width: 60vw;
+    height:60vh ;
+    box-shadow: 0 0 10px black;
+    margin: 20px auto;
+}

@@ -1,0 +1,19 @@
+.nav_container ul{
+    width: 100vw;
+    height: 8vh;
+    background-color: black;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+}
+.nav_container li{
+    list-style: none;
+   
+    
+}
+.nav_container a{
+    text-decoration: none;
+    color: azure;
+}
